@@ -181,3 +181,7 @@ https://www.facebook.com/117994632096051
 
 * **交大競技程式訓練夏令營**（7 月報名）<br>
 https://www.facebook.com/NCTUPCCA
+
+
+## 授權條款
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="創用 CC 授權條款" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">台灣資訊培訓相關資源彙整</span>由<a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/goodjack" property="cc:attributionName" rel="cc:attributionURL">小克</a>製作，以<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">創用CC 姓名標示 4.0 國際 授權條款</a>釋出。
