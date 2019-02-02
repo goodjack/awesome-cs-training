@@ -2,7 +2,7 @@
 以 **台灣高中生** 為出發點的 **資訊培訓相關資源彙整**
 
 ## 目錄
-* [網路資源](#網路資源)
+* [試題資源](#試題資源)
 * [線上教材](#線上教材)
 * [各校資源](#各校資源)
 * [工具](#工具)
@@ -12,7 +12,7 @@
 
 ---
 
-## 網路資源
+## 試題資源
 
 * **CodeWars** - 解題練功<br>
 https://codewars.com
@@ -26,12 +26,6 @@ https://zerojudge.tw
 
 * **Lucky貓的 UVA（ACM）園地** - ACM 中譯<br>
 http://luckycat.kshs.kh.edu.tw/
-
-* **Meteor 程式設計板**<br>
-https://meteor.today/b/programming
-
-* **Feedly** - 資訊訂閱<br>
-https://feedly.com
 
 
 ## 線上教材
@@ -90,11 +84,20 @@ https://samtsai.org/2018/10/02/222-please-dont-recommend-dev-cpp/
 * **GitKraken** - Git 工具<br>
 https://www.gitkraken.com/git-client
 
+* **HackMD** - 協作筆記<br>
+https://hackmd.io
+
 * **VSCode** - 編輯器<br>
 https://code.visualstudio.com/
 
 * **Cmder** - Windows 現代終端機<br>
 https://blog.miniasp.com/post/2015/09/27/Useful-tool-Cmder.aspx
+
+* **Meteor 程式設計板** - 討論區<br>
+https://meteor.today/b/programming
+
+* **Feedly** - 資訊訂閱<br>
+https://feedly.com
 
 
 ## 書籍
