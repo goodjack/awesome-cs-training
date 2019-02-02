@@ -125,7 +125,7 @@ https://www.tenlong.com.tw/products/9789864769353<br>
 https://sites.google.com/site/itsancku/
 
 * **競程日記** - 台灣學生自行舉辦的例賽<br>
-https://tmt514.github.io/icpcblog-weekly-2019?fbclid=IwAR03x9QB0u9q2y62GV61e_kX8Y1hbGJtlmYRm1oQwLorW-6auu4V1kc3n4E
+https://tmt514.github.io/icpcblog-weekly-2019
 
 ### 1 月
 * **AIS3 MyFirst CTF**（11 月報名）<br>
