@@ -66,6 +66,9 @@ https://sites.google.com/site/pcshic/
 * **竹中**<br>
 https://csdc-hchs.blogspot.com
 
+* **台大/清大** - 資訊之芽演算法課程
+https://www.csie.ntu.edu.tw/~sprout/algo2018/
+
 * **交大** - PSPT 課程<br>
 https://drive.google.com/drive/u/0/folders/0BydVf1xpoCSQdzZUWGZzQWtEZnM?tid=0BydVf1xpoCSQM0lHMWU3cTZJaW8
 
