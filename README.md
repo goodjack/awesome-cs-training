@@ -9,6 +9,7 @@
 * [書籍](#書籍)
 * [競賽](#競賽)
 * [營隊/課程](#營隊課程)
+* [好文推薦](#好文推薦)
 
 ---
 
@@ -54,11 +55,15 @@ https://www.sololearn.com
 ## 各校資源
 
 * **建中**
-    * https://tioj.ck.tp.edu.tw/
-    * http://pisces.ck.tp.edu.tw/~peng/
+    * https://tioj.ck.tp.edu.tw
+    * https://pisces.ck.tp.edu.tw/~peng/index.php
 
 * **北一女**<br>
 http://web.fg.tp.edu.tw/~tfgcsblog/blog/?page_id=63
+
+* **中山女高 - 黃建庭**<br>
+    * 教學網站：https://sites.google.com/site/zsgititit/
+    * YouTube：https://www.youtube.com/user/jang0820/videos
 
 * **板中**<br>
 https://sites.google.com/site/pcshic/
@@ -66,8 +71,10 @@ https://sites.google.com/site/pcshic/
 * **竹中**<br>
 https://csdc-hchs.blogspot.com
 
-* **台大/清大** - 資訊之芽演算法課程
-https://www.csie.ntu.edu.tw/~sprout/algo2018/
+* **台大/清大** - 資訊之芽演算法課程<br>
+    * 2018: https://www.csie.ntu.edu.tw/~sprout/algo2018/
+    * 2017: https://www.csie.ntu.edu.tw/~sprout/algo2017/
+    * 2016: https://www.csie.ntu.edu.tw/~sprout/algo2016/
 
 * **交大** - PSPT 課程<br>
 https://drive.google.com/drive/u/0/folders/0BydVf1xpoCSQdzZUWGZzQWtEZnM?tid=0BydVf1xpoCSQM0lHMWU3cTZJaW8
@@ -89,6 +96,9 @@ https://www.gitkraken.com/git-client
 
 * **HackMD** - 協作筆記<br>
 https://hackmd.io
+
+* **Witeboard** - 線上協作白板<br>
+http://witeboard.com
 
 * **VSCode** - 編輯器<br>
 https://code.visualstudio.com/
@@ -150,11 +160,16 @@ http://toi.csie.ntnu.edu.tw/
 https://apcs.csie.ntnu.edu.tw
 
 ### 7 月
-* **國立成功大學暑期高中生程式設計邀請賽**（6 月報名）<br>
+* **國立成功大學暑期高中生程式設計邀請賽**（5、6 月報名）<br>
 http://hspc.csie.ncku.edu.tw/
 
 * **少年圖靈計畫**（6 月報名）<br>
 http://www.tw-ytp.com
+
+### 8 月
+* **ISSC 國際青年程式設計競賽**（7 月報名）<br>
+http://www.cs.thu.edu.tw （無官網，資訊由主辦方東海資工發布）
+
 
 ### 10 月
 * **APCS-大學程式設計先修檢測**（9 月報名） <br>
@@ -198,6 +213,14 @@ https://www.facebook.com/117994632096051
 
 * **交大競技程式訓練夏令營**（7 月報名）<br>
 https://www.facebook.com/NCTUPCCA
+
+
+## 好文推薦
+* 當我們在學程式時，要學的到底是什麼？ – Huli – Medium
+https://medium.com/@hulitw/learn-coding-9c572c2fb2
+
+* 我為什麼寫部落格，以及部落格帶給我的影響 – Huli – Medium
+https://medium.com/@hulitw/blog-e7a23a74ae2b
 
 
 ## 授權條款
