@@ -21,6 +21,9 @@ https://codewars.com
 * **Zerojudge** - 高中生程式解題系統<br>
 https://zerojudge.tw
 
+* **Lucky貓的 UVA（ACM）園地** - ACM 中譯<br>
+http://luckycat.kshs.kh.edu.tw/
+
 * **資訊學科能力競賽考古題**
     * [全國決賽](http://nhspc2018.nctu.edu.tw/%E6%AD%B7%E5%B1%86%E8%80%83%E9%A1%8C/) - 交通大學（推薦）
     * [全國決賽](http://cs.cysh.cy.edu.tw/competition/problem_set.php) - 嘉義高中
@@ -30,11 +33,11 @@ https://zerojudge.tw
     * [各縣市區域複賽](http://www.ntsh.ntpc.edu.tw/fdownload/fdlist.asp?id={A69DB8CE-5778-4947-AB14-2E2F9DE84227}) - 新北高中
     * [ZeroJudge 競賽題庫](https://zerojudge.tw/Problems?tag=%E8%B3%87%E8%A8%8A%E5%AD%B8%E7%A7%91%E8%83%BD%E5%8A%9B%E7%AB%B6%E8%B3%BD)
 
-* **Lucky貓的 UVA（ACM）園地** - ACM 中譯<br>
-http://luckycat.kshs.kh.edu.tw/
-
 
 ## 線上教材
+
+* **SoloLearn** - 手機學程式 app<br>
+https://www.sololearn.com
 
 * **C++ Gossip** - C++ 中文教材<br>
 https://openhome.cc/Gossip/CppGossip/index.html
@@ -54,9 +57,6 @@ http://www.cplusplus.com/reference/
 * **CS50** - 知名哈佛大學程式課程<br>
 https://cs50.harvard.edu/college/
 
-* **SoloLearn** - 手機學程式 app<br>
-https://www.sololearn.com
-
 
 ## 各校資源
 
@@ -64,8 +64,9 @@ https://www.sololearn.com
     * https://tioj.ck.tp.edu.tw
     * https://pisces.ck.tp.edu.tw/~peng/index.php
 
-* **北一女中**<br>
-http://web.fg.tp.edu.tw/~tfgcsblog/blog/?page_id=63
+* **北一女中**
+    * 培訓講義：http://web.fg.tp.edu.tw/~tfgcsblog/blog/?page_id=63
+    * 集訓 YouTube：https://www.youtube.com/playlist?list=PLAtZjrhkyjMYHhGU5bfOIoYC3gTrxoMy1
 
 * **中山女高 - 黃建庭**<br>
     * 教學網站：https://sites.google.com/site/zsgititit/
@@ -77,10 +78,22 @@ https://sites.google.com/site/pcshic/
 * **新竹中學**<br>
 https://csdc-hchs.blogspot.com
 
-* **台灣大學/清華大學** - 資訊之芽演算法課程<br>
-    * 2018: https://www.csie.ntu.edu.tw/~sprout/algo2018/
-    * 2017: https://www.csie.ntu.edu.tw/~sprout/algo2017/
-    * 2016: https://www.csie.ntu.edu.tw/~sprout/algo2016/
+* **台灣大學/清華大學** - 資訊之芽
+    * 演算法
+        * 2018: https://www.csie.ntu.edu.tw/~sprout/algo2018/
+        * 2017: https://www.csie.ntu.edu.tw/~sprout/algo2017/
+        * 2016: https://www.csie.ntu.edu.tw/~sprout/algo2016/
+    * C/C++ 班
+        * 2019: https://tw-csie-sprout.github.io/c2019/#!slides.md
+        * 2018: https://tw-csie-sprout.github.io/c2018/#!slides.md
+        * 2017: https://tw-csie-sprout.github.io/c2017/#!slides.md
+        * 2016: https://tw-csie-sprout.github.io/c2016/#!slides.md
+        * 2015: http://tw-csie-sprout.github.io/programming15spring/#!slide.md
+    * Python 班
+        * 2019: https://tw-csie-sprout.github.io/py2019/#!slides.md
+        * 2018: https://tw-csie-sprout.github.io/py2018/#!slides.md
+        * 2017: https://tw-csie-sprout.github.io/py2017/#!slides.md
+        * 2016: https://tw-csie-sprout.github.io/py2016/#!slides.md
 
 * **交通大學** - PSPT 課程<br>
 https://drive.google.com/drive/u/0/folders/0BydVf1xpoCSQdzZUWGZzQWtEZnM?tid=0BydVf1xpoCSQM0lHMWU3cTZJaW8
@@ -123,19 +136,23 @@ https://feedly.com
 
 * **演算法圖鑑**<br>
 https://www.tenlong.com.tw/products/9789862356319<br>
-![演算法圖鑑](https://cf-assets2.tenlong.com.tw/products/images/000/111/582/webp/FQ1048.webp?1525540340)
+![演算法圖鑑](https://cf-assets2.tenlong.com.tw/products/images/000/111/582/small/FQ1048.jpg?1525540340)
 
 * **培養與鍛鍊程式設計的邏輯腦：程式設計大賽的解題策略基礎入門, 2/e**<br>
 https://www.tenlong.com.tw/products/9789864340897<br>
-![培養與鍛鍊程式設計的邏輯腦：程式設計大賽的解題策略基礎入門, 2/e](https://cf-assets1.tenlong.com.tw/images/98952/medium/635894802658825000.jpg)
+![培養與鍛鍊程式設計的邏輯腦：程式設計大賽的解題策略基礎入門, 2/e](https://cf-assets1.tenlong.com.tw/images/98952/small/635894802658825000.jpg)
 
 * **培養與鍛鍊程式設計的邏輯腦：世界級程式設計大賽的知識、心得與解題分享, 2/e (CPE 大學程式能力檢定最佳參考用書)**<br>
 https://www.tenlong.com.tw/products/9789862017777<br>
-![培養與鍛鍊程式設計的邏輯腦：世界級程式設計大賽的知識、心得與解題分享, 2/e (CPE 大學程式能力檢定最佳參考用書)](https://cf-assets1.tenlong.com.tw/images/79197/medium/PG21319.jpg)
+![培養與鍛鍊程式設計的邏輯腦：世界級程式設計大賽的知識、心得與解題分享, 2/e (CPE 大學程式能力檢定最佳參考用書)](https://cf-assets1.tenlong.com.tw/images/79197/small/PG21319.jpg)
+
+* **打下好基礎－程式設計與演算法競賽入門經典**<br>
+https://www.tenlong.com.tw/products/9789863473114<br>
+![打下好基礎－程式設計與演算法競賽入門經典](https://cf-assets1.tenlong.com.tw/images/86298/small/ACL040500.jpg)
 
 * **打下好基礎－程式設計與演算法競賽入門經典｜精選程式設計競賽全真試題及習題解析**<br>
 https://www.tenlong.com.tw/products/9789864769353<br>
-![打下好基礎－程式設計與演算法競賽入門經典｜精選程式設計競賽全真試題及習題解析](https://cf-assets2.tenlong.com.tw/products/images/000/126/778/webp/9789864769353.webp?1541645451)
+![打下好基礎－程式設計與演算法競賽入門經典｜精選程式設計競賽全真試題及習題解析](https://cf-assets2.tenlong.com.tw/products/images/000/126/778/medium/9789864769353.jpg?1541645451)
 
 
 ## 競賽
@@ -177,10 +194,12 @@ http://www.tw-ytp.com
 * **ISSC 國際青年程式設計競賽**（7 月報名）<br>
 http://www.cs.thu.edu.tw （無官網，資訊由主辦方東海資工發布）
 
-
 ### 10 月
-* **APCS-大學程式設計先修檢測**（9 月報名） <br>
+* **APCS-大學程式設計先修檢測**（9 月報名）<br>
 https://apcs.csie.ntnu.edu.tw
+
+* **北市高中電腦軟體設計競賽**（9 月報名）- 僅限北市學生參加<br>
+http://tpc.taivs.tp.edu.tw/
 
 ### 11 月
 * **資訊學科能力競賽區域賽**
