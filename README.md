@@ -10,7 +10,7 @@
 - [工具](#工具)
 - [書籍](#書籍)
 - [競賽](#競賽)
-- [營隊／課程](#營隊／課程)
+- [營隊／課程／研討會](#營隊／課程／研討會)
 - [好文推薦](#好文推薦)
 
 ---
@@ -221,7 +221,7 @@
 
 - [**NPSC 網際網路程式設計全國大賽**](http://contest.cc.ntu.edu.tw)（10 月報名）
 
-## 營隊／課程
+## 營隊／課程／研討會
 
 ### 1 月
 
@@ -238,6 +238,11 @@
 
   - [官方網站](https://sprout.tw/spt/)
   - [Facebook 粉絲專頁](https://www.facebook.com/ntucsiesprout/)
+
+- **SITCON 學生計算機年會**（2 月報名）
+
+  - [官方網站](https://sitcon.org)
+  - [Facebook 粉絲專頁](https://www.facebook.com/SITCONtw/)
 
 ### 7 月
 
@@ -256,10 +261,15 @@
 
 - 各大學資工系暑期營隊（5 月報名）
 
-- **SITCON 夏令營**（5 月報名）
+- **SITCON 學生計算機夏令營**（5 月報名）
 
   - [官方網站](https://sitcon.camp)
   - [Facebook 粉絲專頁](https://www.facebook.com/SITCONCamp/)
+
+- **COSCUP 開源人年會**（6 月報名）
+
+  - [官方網站](https://coscup.org)
+  - [Facebook 粉絲專頁](https://www.facebook.com/coscup/)
 
 - [**清大暑期程式競賽集訓營**](https://www.facebook.com/117994632096051)（5 月報名）
 
