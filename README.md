@@ -81,6 +81,7 @@
 
   - 演算法班
 
+    - [2019 課程講義](https://www.csie.ntu.edu.tw/~sprout/algo2019/)
     - [2018 課程講義](https://www.csie.ntu.edu.tw/~sprout/algo2018/)
     - [2017 課程講義](https://www.csie.ntu.edu.tw/~sprout/algo2017/)
     - [2016 課程講義](https://www.csie.ntu.edu.tw/~sprout/algo2016/)
@@ -186,6 +187,10 @@
 
 - [**少年圖靈計畫**](http://www.tw-ytp.com)（4 月報名）
 
+### 5 月
+
+- [**T 貓盃全國資安基礎實務能力競賽**](http://www.twisc.ncku.edu.tw/)（4 月報名）
+
 ### 6 月
 
 - [**APCS - 大學程式設計先修檢測**](https://apcs.csie.ntnu.edu.tw)（4 月報名）
@@ -201,6 +206,10 @@
 ### 10 月
 
 - [**APCS - 大學程式設計先修檢測**](https://apcs.csie.ntnu.edu.tw)（9 月報名）
+
+- [**資安技能金盾獎**]（9 月報名）
+  - [競賽網站](https://www.cybersecurity.tw)
+  - [主辦單位 Facebook 粉絲專頁](https://www.facebook.com/pages/category/Computer-Company/%E8%B3%87%E5%AE%89%E7%B3%BB%E5%88%97%E7%AB%B6%E8%B3%BD-112449435572808/)
 
 - [**北市高中電腦軟體設計競賽**](http://tpc.taivs.tp.edu.tw/)（9 月報名）- 僅限北市學生參加
 
