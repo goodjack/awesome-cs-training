@@ -201,13 +201,16 @@
 
 ### 8 月
 
-- **ISSC 國際青年程式設計競賽**（7 月報名）- 無官網，資訊由主辦方 [東海資工](http://www.cs.thu.edu.tw) 發布
+- **ISSC 國際青年程式設計競賽**（7 月報名）
+  - [官方網站](https://issc.csroc.org.tw)
+  - [官方 Facebook 社團](https://www.facebook.com/groups/ISSCTW)
+  - 主辦方 [東海資工](http://www.cs.thu.edu.tw)
 
 ### 10 月
 
 - [**APCS - 大學程式設計先修檢測**](https://apcs.csie.ntnu.edu.tw)（9 月報名）
 
-- [**資安技能金盾獎**]（9 月報名）
+- **資安技能金盾獎**（9 月報名）
   - [競賽網站](https://www.cybersecurity.tw)
   - [主辦單位 Facebook 粉絲專頁](https://www.facebook.com/pages/category/Computer-Company/%E8%B3%87%E5%AE%89%E7%B3%BB%E5%88%97%E7%AB%B6%E8%B3%BD-112449435572808/)
 
