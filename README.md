@@ -159,7 +159,11 @@
 
 ### 例賽
 
-- [**ITSA & PTC 線上程式設計競賽**](https://sites.google.com/site/itsancku/) - 全國最大例賽、教育部主辦
+- **ITSA 線上程式設計競賽** - 全國最大例賽、教育部主辦，每個偶數月份舉辦
+
+  - [官方網站](https://sites.google.com/site/itsancku/)
+  - [Facebook 粉絲專頁](https://www.facebook.com/itsancku/)
+  - [E-Tutor 程式自評平臺](https://e-tutor.itsa.org.tw/e-Tutor/)
 
 - [**競程日記**](https://tmt514.github.io/icpcblog-weekly-2019) - 台灣學生自行舉辦的例賽
 
@@ -211,6 +215,7 @@
 - [**APCS - 大學程式設計先修檢測**](https://apcs.csie.ntnu.edu.tw)（9 月報名）
 
 - **資安技能金盾獎**（9 月報名）
+
   - [競賽網站](https://www.cybersecurity.tw)
   - [主辦單位 Facebook 粉絲專頁](https://www.facebook.com/pages/category/Computer-Company/%E8%B3%87%E5%AE%89%E7%B3%BB%E5%88%97%E7%AB%B6%E8%B3%BD-112449435572808/)
 
