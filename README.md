@@ -172,12 +172,14 @@
 - **AIS3 MyFirst CTF**（11 月報名）
 
   - [競賽網站](https://ais3.org/mfctf/)
-  - [主辦單位 Facebook 粉絲專頁](https://www.facebook.com/AIS3official/)
+  - Facebook [AIS3 新型態資安暑期課程](https://www.facebook.com/AIS3official/)
+  - Facebook [高中職生資安研習營](https://www.facebook.com/%E9%AB%98%E4%B8%AD%E8%81%B7%E7%94%9F%E8%B3%87%E5%AE%89%E7%A0%94%E7%BF%92%E7%87%9F-455550404836569/)
 
 - **AIS3 EOF 資安搶旗競賽**（11 月報名）
 
   - [競賽網站](https://ais3.org/eof/)
-  - [主辦單位 Facebook 粉絲專頁](https://www.facebook.com/AIS3official/)
+  - Facebook [AIS3 新型態資安暑期課程](https://www.facebook.com/AIS3official/)
+  - Facebook [高中職生資安研習營](https://www.facebook.com/%E9%AB%98%E4%B8%AD%E8%81%B7%E7%94%9F%E8%B3%87%E5%AE%89%E7%A0%94%E7%BF%92%E7%87%9F-455550404836569/)
 
 ### 2 月
 
@@ -268,7 +270,8 @@
 - **AIS3 新型態資安暑期課程**（5 月報名）
 
   - [官方網站](https://ais3.org)
-  - [Facebook 粉絲專頁](https://www.facebook.com/AIS3official/)
+  - Facebook [AIS3 新型態資安暑期課程](https://www.facebook.com/AIS3official/)
+  - Facebook [高中職生資安研習營](https://www.facebook.com/%E9%AB%98%E4%B8%AD%E8%81%B7%E7%94%9F%E8%B3%87%E5%AE%89%E7%A0%94%E7%BF%92%E7%87%9F-455550404836569/)
 
 - **AWS STEM Summer Camp**（5 月報名）- 限女高中學生
 
