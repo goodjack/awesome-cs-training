@@ -188,14 +188,17 @@
 ### 3 月
 
 - [**TOI 臺灣國際資訊奧林匹亞競賽選訓營**](http://toi.csie.ntnu.edu.tw/)（2 月報名）
+- [**TOI 推廣計畫 - 臺灣國際資訊奧林匹亞競賽線上練習賽**](https://toi-reg.csie.ntnu.edu.tw)（3 月場）
 
 ### 4 月
 
 - [**少年圖靈計畫**](http://www.tw-ytp.com)（4 月報名）
+- [**TOI 推廣計畫 - 臺灣國際資訊奧林匹亞競賽線上練習賽**](https://toi-reg.csie.ntnu.edu.tw)（4 月場）
 
 ### 5 月
 
 - [**T 貓盃全國資安基礎實務能力競賽**](http://www.twisc.ncku.edu.tw/)（4 月報名）
+- [**TOI 推廣計畫 - 臺灣國際資訊奧林匹亞競賽線上練習賽**](https://toi-reg.csie.ntnu.edu.tw)（5 月場）
 
 ### 6 月
 
@@ -222,6 +225,7 @@
   - [主辦單位 Facebook 粉絲專頁](https://www.facebook.com/pages/category/Computer-Company/%E8%B3%87%E5%AE%89%E7%B3%BB%E5%88%97%E7%AB%B6%E8%B3%BD-112449435572808/)
 
 - [**北市高中電腦軟體設計競賽**](http://tpc.taivs.tp.edu.tw/)（9 月報名）- 僅限北市學生參加
+- [**TOI 推廣計畫 - 臺灣國際資訊奧林匹亞競賽線上練習賽**](https://toi-reg.csie.ntnu.edu.tw)（10 月場）
 
 ### 11 月
 
@@ -233,12 +237,14 @@
   - [Facebook 粉絲專頁](https://www.facebook.com/hp.codewars.tw/)
 
 - [**國際運算思維挑戰賽**](http://bebras.csie.ntnu.edu.tw)（10 月報名）
+- [**TOI 推廣計畫 - 臺灣國際資訊奧林匹亞競賽線上練習賽**](https://toi-reg.csie.ntnu.edu.tw)（11 月場）
 
 ### 12 月
 
 - **資訊學科能力競賽 全國賽**
 
 - [**NPSC 網際網路程式設計全國大賽**](http://contest.cc.ntu.edu.tw)（10 月報名）
+- [**TOI 推廣計畫 - 臺灣國際資訊奧林匹亞競賽線上練習賽**](https://toi-reg.csie.ntnu.edu.tw)（12 月場）
 
 ## 營隊／課程／研討會
 
