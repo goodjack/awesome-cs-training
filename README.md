@@ -295,6 +295,13 @@
 
 - [**交大競技程式訓練夏令營**](https://www.facebook.com/NCTUPCCA)（7 月報名）
 
+### 9 月
+
+- 臺灣好厲駭（8 月報名）
+  - 主辦單位 [教育部資訊安全人才培育計畫](https://isip.moe.edu.tw/wordpress/)
+  - Facebook [AIS3 新型態資安暑期課程](https://www.facebook.com/AIS3official/)
+  - Facebook [高中職生資安研習營](https://www.facebook.com/%E9%AB%98%E4%B8%AD%E8%81%B7%E7%94%9F%E8%B3%87%E5%AE%89%E7%A0%94%E7%BF%92%E7%87%9F-455550404836569/)
+
 ## 好文推薦
 
 - [當我們在學程式時，要學的到底是什麼？ – Huli – Medium](https://medium.com/@hulitw/learn-coding-9c572c2fb2)
