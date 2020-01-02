@@ -73,7 +73,7 @@
 - **板橋高中**
 
   - [板橋高中資訊社](https://sites.google.com/site/pcshic/)
-  - [2018 校內培訓講義](https://sites.google.com/site/pcshic/zi-xun-pei-xun)
+  - [2018/2019 校內培訓講義](https://sites.google.com/site/pcshic/zi-xun-pei-xun)
   - [2015 校內培訓講義](https://docs.google.com/document/d/1A5pBTSSr-jyMsh5vCIEZhGN9W5VEFs8Z_G_u5OLsYJ0/edit?pli=1)
   - [C++ 從 Zero 開始](https://sites.google.com/site/pcshic/cppzero)
 
@@ -116,6 +116,7 @@
 
 - **成功大學** - ACM 課程
 
+  - [2019 Spring NCKU ACM Training Courses](https://nckuacm.github.io/2019/)
   - [2018 Spring NCKU ACM Training Courses](https://nckuacm.github.io/2018/)
 
 ## 工具
@@ -172,13 +173,13 @@
 - **AIS3 MyFirst CTF**（11 月報名）
 
   - [競賽網站](https://ais3.org/mfctf/)
-  - Facebook [AIS3 新型態資安暑期課程](https://www.facebook.com/AIS3official/)
+  - Facebook [AIS3 新型態資安暑期課程](https://www.facebook.com/AIS3official/)
   - Facebook [高中職生資安研習營](https://www.facebook.com/%E9%AB%98%E4%B8%AD%E8%81%B7%E7%94%9F%E8%B3%87%E5%AE%89%E7%A0%94%E7%BF%92%E7%87%9F-455550404836569/)
 
 - **AIS3 EOF 資安搶旗競賽**（11 月報名）
 
   - [競賽網站](https://ais3.org/eof/)
-  - Facebook [AIS3 新型態資安暑期課程](https://www.facebook.com/AIS3official/)
+  - Facebook [AIS3 新型態資安暑期課程](https://www.facebook.com/AIS3official/)
   - Facebook [高中職生資安研習營](https://www.facebook.com/%E9%AB%98%E4%B8%AD%E8%81%B7%E7%94%9F%E8%B3%87%E5%AE%89%E7%A0%94%E7%BF%92%E7%87%9F-455550404836569/)
 
 ### 2 月
@@ -252,9 +253,9 @@
 
 - [**交大競技程式訓練冬令營**](https://www.facebook.com/NCTUPCCA)（12 月報名）
 
-- **台大程式解題競賽集訓營（IOICamp）**（1 月報名）
+- **台大程式解題競賽集訓營（IOICamp）**（12 月報名）
 
-  - [官方網站](https://ioicamp2019.csie.org)
+  - [官方網站](https://ioicamp2020.csie.org)
   - [Facebook 粉絲專頁](https://www.facebook.com/ioicamp)
 
 ### 3 月
@@ -276,7 +277,7 @@
 - **AIS3 新型態資安暑期課程**（5 月報名）
 
   - [官方網站](https://ais3.org)
-  - Facebook [AIS3 新型態資安暑期課程](https://www.facebook.com/AIS3official/)
+  - Facebook [AIS3 新型態資安暑期課程](https://www.facebook.com/AIS3official/)
   - Facebook [高中職生資安研習營](https://www.facebook.com/%E9%AB%98%E4%B8%AD%E8%81%B7%E7%94%9F%E8%B3%87%E5%AE%89%E7%A0%94%E7%BF%92%E7%87%9F-455550404836569/)
 
 - **AWS STEM Summer Camp**（5 月報名）- 限女高中學生
@@ -305,7 +306,7 @@
 
 - 臺灣好厲駭（8 月報名）
   - 主辦單位 [教育部資訊安全人才培育計畫](https://isip.moe.edu.tw/wordpress/)
-  - Facebook [AIS3 新型態資安暑期課程](https://www.facebook.com/AIS3official/)
+  - Facebook [AIS3 新型態資安暑期課程](https://www.facebook.com/AIS3official/)
   - Facebook [高中職生資安研習營](https://www.facebook.com/%E9%AB%98%E4%B8%AD%E8%81%B7%E7%94%9F%E8%B3%87%E5%AE%89%E7%A0%94%E7%BF%92%E7%87%9F-455550404836569/)
 
 ## 好文推薦
