@@ -255,7 +255,7 @@
 
 - **台大程式解題競賽集訓營（IOICamp）**（12 月報名）
 
-  - [官方網站](https://ioicamp2020.csie.org)
+  - [官方網站](https://ioicamp.org)
   - [Facebook 粉絲專頁](https://www.facebook.com/ioicamp)
 
 ### 3 月
