@@ -41,7 +41,7 @@
 
 - [**歡迎回到 C++ (現代 C++) | Microsoft Docs**](https://docs.microsoft.com/zh-tw/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=vs-2019) - 微軟 MSDN 現代 C++ 文件
 
-- [**演算法筆記**](http://www.csie.ntnu.edu.tw/~u91029/) - 演算法教材
+- [**演算法筆記**](https://web.ntnu.edu.tw/~algo/index.html) - 演算法教材
 
 - [**非關語言: 常見程式演算**](https://openhome.cc/Gossip/AlgorithmGossip/) - 演算法教材（openhome.cc）
 
