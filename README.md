@@ -99,8 +99,9 @@
     - [2017 課程講義](https://tw-csie-sprout.github.io/py2017/#!slides.md)
     - [2016 課程講義](https://tw-csie-sprout.github.io/py2016/#!slides.md)
 
-- **交通大學** - PCCA 競技程式訓練
+- **交通大學** - PCCA 競技程式訓練營
 
+  - 2020 停辦
   - [2019 冬令營課程講義](https://sites.google.com/g2.nctu.edu.tw/pcca-winter-2019/%E8%AA%B2%E7%A8%8B%E8%B3%87%E8%A8%8A?authuser=0)
   - [2018 夏令營課程講義](https://sites.google.com/g2.nctu.edu.tw/pcca-summer-2018/%E8%AA%B2%E7%A8%8B%E8%B3%87%E8%A8%8A?authuser=0)
   - [2018 冬令營課程講義](https://sites.google.com/g2.nctu.edu.tw/pcca-winter-2018/%E8%AA%B2%E7%A8%8B%E8%B3%87%E8%A8%8A?authuser=0)
