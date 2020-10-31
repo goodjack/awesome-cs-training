@@ -20,10 +20,12 @@
 - [**CodeWars**](https://codewars.com) - 解題練功
 - [**Zerojudge**](https://zerojudge.tw) - 高中生程式解題系統
 - [**Lucky 貓的 UVA（ACM）園地**](http://luckycat.kshs.kh.edu.tw/) - ACM 中譯
-- [**NPSC 補完計劃**](http://www3.tcgs.tc.edu.tw/npsc/) - NPSC 歷年題目的解法討論
+
+- **網際網路程式設計全國大賽（NPSC）考古題**
+  - [**歷年比賽題目參考**](https://contest.cc.ntu.edu.tw/npsc2020/problem.html)
+  - [**NPSC 補完計劃**](http://www3.tcgs.tc.edu.tw/npsc/) - NPSC 歷年題目的解法討論
 
 - **資訊學科能力競賽考古題**
-
   - [全國決賽](http://nhspc.csie.ntnu.edu.tw/2019/bisaixunxi/lijieshiti.html) - 教育部國民及學前教育署 x 師大資工
   - [全國決賽](https://hackmd.io/@cube/HyxueFBi4) - 嘉義高中
   - [台北市區域複賽](http://203.72.64.251/chen/Exam/ExamTest.html) - 松山高中（推薦）
