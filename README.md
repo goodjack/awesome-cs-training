@@ -221,9 +221,9 @@ Competitive Programming (ACM) 課程
 
 - [**APCS - 大學程式設計先修檢測**](https://apcs.csie.ntnu.edu.tw)（9 月報名）
 
-- **資安技能金盾獎**（9 月報名）
+- **資安系列競賽 - 資安技能金盾獎**（9 月報名）
 
-  - [競賽網站](https://www.cybersecurity.tw)
+  - [競賽網站](https://csc.nccst.nat.gov.tw)
   - [主辦單位 Facebook 粉絲專頁](https://www.facebook.com/pages/category/Computer-Company/%E8%B3%87%E5%AE%89%E7%B3%BB%E5%88%97%E7%AB%B6%E8%B3%BD-112449435572808/)
 
 - [**北市高中電腦軟體設計競賽**](http://tpc.taivs.tp.edu.tw/)（9 月報名）- 僅限北市學生參加
