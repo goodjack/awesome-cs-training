@@ -146,6 +146,12 @@ Competitive Programming (ACM) 課程
 
 ## 書籍
 
+- **C++ 程式設計解題入門 -- 融入程式設計競賽與 APCS 實作題, 2/e**（[天瓏連結](https://www.tenlong.com.tw/products/9789865021504)）<br>
+  <img alt="C++ 程式設計解題入門 -- 融入程式設計競賽與 APCS 實作題, 2/e" src="https://cf-assets2.tenlong.com.tw/products/images/000/136/284/medium/AEL021700.jpg?1560419544" height="125px">
+
+- **C++ Primer, 5/e (繁體中文版)**（[天瓏連結](https://www.tenlong.com.tw/products/9789865021726)）<br>
+  <img alt="C++ Primer, 5/e (繁體中文版)" src="https://cf-assets2.tenlong.com.tw/products/images/000/136/321/medium/ACL037000.jpg?1560763162" height="125px">
+
 - **演算法圖鑑**（[天瓏連結](https://www.tenlong.com.tw/products/9789862356319)）<br>
   ![演算法圖鑑](https://cf-assets2.tenlong.com.tw/products/images/000/111/582/small/FQ1048.jpg?1525540340)
 
