@@ -35,20 +35,16 @@
 ## 線上教材
 
 - [**SoloLearn**](https://www.sololearn.com) - 手機學程式 app
-
 - [**語言技術：C++ Gossip**](https://openhome.cc/Gossip/CppGossip/index.html) - C++ 中文教材（openhome.cc）
-
 - [**歡迎回到 C++ (現代 C++) | Microsoft Docs**](https://docs.microsoft.com/zh-tw/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=vs-2019) - 微軟 MSDN 現代 C++ 文件
-
 - [**演算法筆記**](https://web.ntnu.edu.tw/~algo/index.html) - 演算法教材
-
 - [**非關語言: 常見程式演算**](https://openhome.cc/Gossip/AlgorithmGossip/) - 演算法教材（openhome.cc）
-
 - [**為你自己學 Git**](https://gitbook.tw) - Git 教材
-
 - [**C++ Reference**](http://www.cplusplus.com/reference/) - C++ 文件資源（cplusplus.com）
-
 - [**CS50**](https://cs50.harvard.edu/college/) - 知名哈佛大學程式課程
+  - [CS50 AP](https://cs50.harvard.edu/ap/) - 高中生版 CS50
+- [**Google C++ Style Guide**](https://google.github.io/styleguide/cppguide.html) - Google 的 C++ Coding Style 規範
+  - [【VSCode】如何在 VSCode 上自定義 C++ 的 coding style](https://medium.com/@zamhuang/vscode-%E5%A6%82%E4%BD%95%E5%9C%A8-vscode-%E4%B8%8A%E8%87%AA%E5%AE%9A%E7%BE%A9-c-%E7%9A%84-coding-style-c8eb199c57ce) - Zam Huang
 
 ## 各校資源
 
