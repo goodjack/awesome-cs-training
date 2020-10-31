@@ -113,8 +113,10 @@
 
   - [2014 PSPT 課程講義](https://drive.google.com/drive/u/0/folders/0BydVf1xpoCSQdzZUWGZzQWtEZnM?tid=0BydVf1xpoCSQM0lHMWU3cTZJaW8)
 
-- **成功大學** - ACM 課程
+- **成功大學** - Advanced
+Competitive Programming (ACM) 課程
 
+  - [2020 Spring NCKU ACM Training Courses](https://nckuacm.github.io/2020/)
   - [2019 Spring NCKU ACM Training Courses](https://nckuacm.github.io/2019/)
   - [2018 Spring NCKU ACM Training Courses](https://nckuacm.github.io/2018/)
 
