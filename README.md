@@ -76,6 +76,7 @@
 
   - 演算法班
 
+    - [2020 課程講義](https://www.csie.ntu.edu.tw/~sprout/algo2020/)
     - [2019 課程講義](https://www.csie.ntu.edu.tw/~sprout/algo2019/)
     - [2018 課程講義](https://www.csie.ntu.edu.tw/~sprout/algo2018/)
     - [2017 課程講義](https://www.csie.ntu.edu.tw/~sprout/algo2017/)
@@ -83,6 +84,7 @@
 
   - C/C++ 班
 
+    - [2020 課程講義](https://tw-csie-sprout.github.io/c2020/#!slides.md)
     - [2019 課程講義](https://tw-csie-sprout.github.io/c2019/#!slides.md)
     - [2018 課程講義](https://tw-csie-sprout.github.io/c2018/#!slides.md)
     - [2017 課程講義](https://tw-csie-sprout.github.io/c2017/#!slides.md)
@@ -91,6 +93,7 @@
 
   - Python 班
 
+    - [2020 課程講義](https://tw-csie-sprout.github.io/py2020/#!slides.md)
     - [2019 課程講義](https://tw-csie-sprout.github.io/py2019/#!slides.md)
     - [2018 課程講義](https://tw-csie-sprout.github.io/py2018/#!slides.md)
     - [2017 課程講義](https://tw-csie-sprout.github.io/py2017/#!slides.md)
