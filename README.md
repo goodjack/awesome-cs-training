@@ -67,10 +67,10 @@
 
 - **板橋高中**
 
-  - [板橋高中資訊社](https://sites.google.com/site/pcshic/)
+  - [板橋高中資訊社](https://sites.google.com/site/pcshic/) （[新版網站 1](https://sites.google.com/mail.pcsh.ntpc.edu.tw/info/)、[新版網站 2](https://ic.sean.cat/)）
   - [2018/2019 校內培訓講義](https://sites.google.com/site/pcshic/zi-xun-pei-xun)
   - [2015 校內培訓講義](https://docs.google.com/document/d/1A5pBTSSr-jyMsh5vCIEZhGN9W5VEFs8Z_G_u5OLsYJ0/edit?pli=1)
-  - [C++ 從 Zero 開始](https://sites.google.com/site/pcshic/cppzero)
+  - [C++ 從 Zero 開始](https://sites.google.com/site/pcshic/cppzero) （[新網站](http://pcshic.github.io/start/)）
 
 - **台灣大學/清華大學** - 資訊之芽
 
