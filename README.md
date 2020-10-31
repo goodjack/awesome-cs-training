@@ -25,7 +25,7 @@
 
 - **資訊學科能力競賽考古題**
 
-  - [全國決賽](http://nhspc2018.nctu.edu.tw/%E6%AD%B7%E5%B1%86%E8%80%83%E9%A1%8C/) - 交通大學
+  - [全國決賽](http://nhspc.csie.ntnu.edu.tw/2019/bisaixunxi/lijieshiti.html) - 教育部國民及學前教育署 x 師大資工
   - [全國決賽](https://hackmd.io/@cube/HyxueFBi4) - 嘉義高中
   - [台北市區域複賽](http://203.72.64.251/chen/Exam/ExamTest.html) - 松山高中（推薦）
   - [台北市區域複賽](https://sites.google.com/site/zsgititit/home/zi-xun-neng-li-jing-sai-kao-gu-ti) - 中山女中
