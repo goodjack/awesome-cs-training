@@ -53,7 +53,7 @@
   - [TIOJ INFOR Online Judge](https://tioj.ck.tp.edu.tw)
   - [2017 校內培訓講義](https://tioj.ck.tp.edu.tw/articles/11)
   - [2016 校內培訓講義](https://tioj.ck.tp.edu.tw/articles/5)
-  - [2015 資訊科培訓網站](https://pisces.ck.tp.edu.tw/~peng/index.php)
+  - [2015 資訊科培訓網站](http://pisces.ck.tp.edu.tw/~peng/index.php)
 
 - **北一女中**
 
