@@ -18,10 +18,9 @@
 ## 試題資源
 
 - [**CodeWars**](https://codewars.com) - 解題練功
-
 - [**Zerojudge**](https://zerojudge.tw) - 高中生程式解題系統
-
 - [**Lucky 貓的 UVA（ACM）園地**](http://luckycat.kshs.kh.edu.tw/) - ACM 中譯
+- [**NPSC 補完計劃**](http://www3.tcgs.tc.edu.tw/npsc/) - NPSC 歷年題目的解法討論
 
 - **資訊學科能力競賽考古題**
 
