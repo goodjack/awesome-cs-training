@@ -8,9 +8,9 @@
 
 - [試題資源](#試題資源)
 - [線上教材](#線上教材)
+- [工具](#工具)
 - [社群](#社群)
 - [各校資源](#各校資源)
-- [工具](#工具)
 - [書籍](#書籍)
 - [競賽](#競賽)
 - [營隊／課程／研討會](#營隊／課程／研討會)
@@ -71,6 +71,27 @@
   - [【VSCode】如何在 VSCode 上自定義 C++ 的 coding style](https://medium.com/@zamhuang/vscode-%E5%A6%82%E4%BD%95%E5%9C%A8-vscode-%E4%B8%8A%E8%87%AA%E5%AE%9A%E7%BE%A9-c-%E7%9A%84-coding-style-c8eb199c57ce) - Zam Huang
 
 - [成為 Web 開發人員的路線圖](https://github.com/goodjack/developer-roadmap-chinese)
+
+## 工具
+
+以下軟體多數可透過 [**GitHub Student Developer Pack**](https://education.github.com/pack) 免費取得授權或升級至專業版。
+
+- [**Repl.it**](https://repl.it/languages/cpp11) - 線上寫 Code
+
+- [**CLion**](https://samtsai.org/2018/10/02/222-please-dont-recommend-dev-cpp/) - 電腦寫 Code 的專業 C++ IDE
+
+- [**VSCode**](https://code.visualstudio.com/) - 電腦寫 Code 媲美 IDE 的超強編輯器
+  - [小克的 Visual Studio Code 必裝擴充套件（Extensions）私藏推薦](https://blog.goodjack.tw/2018/03/visual-studio-code-extensions.html)
+
+- [**GitKraken**](https://www.gitkraken.com/git-client) - Git 工具
+
+- [**HackMD**](https://hackmd.io) - 協作筆記
+
+- [**Witeboard**](https://witeboard.com) - 線上協作白板
+
+- [**Cmder**](https://blog.miniasp.com/post/2015/09/27/Useful-tool-Cmder.aspx) - Windows 現代終端機
+
+- [**Feedly**](https://feedly.com) - 資訊訂閱
 
 ## 社群
 
@@ -145,27 +166,6 @@ Competitive Programming (ACM) 課程
   - [2020 Spring NCKU ACM Training Courses](https://nckuacm.github.io/2020/)
   - [2019 Spring NCKU ACM Training Courses](https://nckuacm.github.io/2019/)
   - [2018 Spring NCKU ACM Training Courses](https://nckuacm.github.io/2018/)
-
-## 工具
-
-以下軟體多數可透過 [**GitHub Student Developer Pack**](https://education.github.com/pack) 免費取得授權或升級至專業版。
-
-- [**Repl.it**](https://repl.it/languages/cpp11) - 線上寫 Code
-
-- [**CLion**](https://samtsai.org/2018/10/02/222-please-dont-recommend-dev-cpp/) - 電腦寫 Code 的專業 C++ IDE
-
-- [**VSCode**](https://code.visualstudio.com/) - 電腦寫 Code 媲美 IDE 的超強編輯器
-  - [小克的 Visual Studio Code 必裝擴充套件（Extensions）私藏推薦](https://blog.goodjack.tw/2018/03/visual-studio-code-extensions.html)
-
-- [**GitKraken**](https://www.gitkraken.com/git-client) - Git 工具
-
-- [**HackMD**](https://hackmd.io) - 協作筆記
-
-- [**Witeboard**](https://witeboard.com) - 線上協作白板
-
-- [**Cmder**](https://blog.miniasp.com/post/2015/09/27/Useful-tool-Cmder.aspx) - Windows 現代終端機
-
-- [**Feedly**](https://feedly.com) - 資訊訂閱
 
 ## 書籍
 
