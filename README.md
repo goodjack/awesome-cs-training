@@ -131,6 +131,10 @@
 
   - [WiwiHo 的競程筆記](https://hackmd.io/@wiwiho/cp-note)
 
+- **新竹實驗中學**
+
+  - [新竹實驗中學 C++ 程式語言教學講義](https://hackmd.io/@CLKO/B18yT_i5Z)
+
 - **台南一中**
 
   - [APCS - 2018台南一中選修](https://hackmd.io/@sa072686/APCS_HARD)
