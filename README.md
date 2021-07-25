@@ -61,6 +61,10 @@
 
 - [**從零開始的演算法競賽入門教學**](https://emanlaicepsa.github.io) - 由國際資訊奧林匹亞銀牌得主親自編寫，適合新手的演算法競賽指南
 
+- [**2020 競技程設教材**](https://hackmd.io/@nckuacm/ryLIV6BYI) - 由成大電腦網路愛好社及競技程式設計課程共同編輯，目標寫出平易近人的競賽程式設計入門書及參考資料
+
+- [**YUI HUANG 演算法學習筆記**](https://yuihuang.com/e-portfolio/)
+
 - [**演算法筆記**](https://web.ntnu.edu.tw/~algo/index.html) - 演算法教材
 
 - [**非關語言: 常見程式演算**](https://openhome.cc/Gossip/AlgorithmGossip/) - 演算法教材（openhome.cc）
