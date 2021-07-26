@@ -109,6 +109,8 @@
 
 - [**Meteor 程式設計板**](https://meteor.today/b/programming) - 高中生程式討論區
 
+- [**中學資訊討論群**](https://discord.gg/mc9CgJvjZz) - Discord 伺服器
+
 ## 各校資源
 
 - **建國中學**
