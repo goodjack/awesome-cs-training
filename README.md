@@ -64,6 +64,8 @@
 
 - [**2020 競技程設教材**](https://hackmd.io/@nckuacm/ryLIV6BYI) - 由成大電腦網路愛好社及競技程式設計課程共同編輯，目標寫出平易近人的競賽程式設計入門書及參考資料
 
+- [**WiwiHo 的競程筆記**](https://cp.wiwiho.me) - 由 2021 IOI 國手、師大附中資訊培訓講師整理（[舊站](https://hackmd.io/@wiwiho/cp-note)）
+
 - [**YUI HUANG 演算法學習筆記**](https://yuihuang.com/e-portfolio/)
 
 - [**演算法筆記**](https://web.ntnu.edu.tw/~algo/index.html) - 演算法教材
@@ -133,10 +135,6 @@
   - [2018/2019 校內培訓講義](https://sites.google.com/site/pcshic/zi-xun-pei-xun)
   - [2015 校內培訓講義](https://docs.google.com/document/d/1A5pBTSSr-jyMsh5vCIEZhGN9W5VEFs8Z_G_u5OLsYJ0/edit?pli=1)
   - [C++ 從 Zero 開始](https://sites.google.com/site/pcshic/cppzero) （[新網站](http://pcshic.github.io/start/)）
-
-- **師大附中**
-
-  - [WiwiHo 的競程筆記](https://hackmd.io/@wiwiho/cp-note)
 
 - **新竹實驗中學**
 
