@@ -6,6 +6,7 @@
 [![Facebook 分享](https://img.shields.io/badge/Facebook-分享-2d87ff.svg?style=flat-square&logo=facebook)](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2Fgoodjack%2Fawesome-cs-training&quote=%E5%8F%B0%E7%81%A3%E8%B3%87%E8%A8%8A%E5%9F%B9%E8%A8%93%E7%9B%B8%E9%97%9C%E8%B3%87%E6%BA%90%E5%BD%99%E6%95%B4%20by%20%40littlegoodjack)
 [![Plurk 發噗](https://img.shields.io/badge/Plurk-發噗-fe574d.svg?style=flat-square&logo=plurk)](http://www.plurk.com/?status=%E5%8F%B0%E7%81%A3%E8%B3%87%E8%A8%8A%E5%9F%B9%E8%A8%93%E7%9B%B8%E9%97%9C%E8%B3%87%E6%BA%90%E5%BD%99%E6%95%B4%20by%20%40littlegoodjack%20https%3A//github.com/goodjack/awesome-cs-training)
 [![LINE 分享](https://img.shields.io/badge/LINE-分享-04c755.svg?style=flat-square&logo=line)](https://social-plugins.line.me/lineit/share?text=%E5%8F%B0%E7%81%A3%E8%B3%87%E8%A8%8A%E5%9F%B9%E8%A8%93%E7%9B%B8%E9%97%9C%E8%B3%87%E6%BA%90%E5%BD%99%E6%95%B4%20by%20%40littlegoodjack&url=https%3A//github.com/goodjack/awesome-cs-training)
+[![Telegram 分享](https://img.shields.io/badge/Telegram-分享-54a9eb.svg?style=flat-square&logo=telegram)](https://t.me/share/url?url=https%3A//github.com/goodjack/awesome-cs-training&text=%E5%8F%B0%E7%81%A3%E8%B3%87%E8%A8%8A%E5%9F%B9%E8%A8%93%E7%9B%B8%E9%97%9C%E8%B3%87%E6%BA%90%E5%BD%99%E6%95%B4%20by%20%40littlegoodjack)
 [![聯絡作者 @littlegoodjack](https://img.shields.io/badge/聯絡作者-@littlegoodjack-20a1f1.svg?style=flat-square&logo=twitter)](https://twitter.com/littlegoodjack)
 
 > :bulb: 歡迎提交 Pull Request 或是開啟 Issue 來完善更多資源！
