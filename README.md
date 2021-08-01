@@ -93,9 +93,18 @@
 - [**VSCode**](https://code.visualstudio.com/) - 電腦寫 Code 媲美 IDE 的超強編輯器
   - [小克的 Visual Studio Code 必裝擴充套件（Extensions）私藏推薦](https://blog.goodjack.tw/2018/03/visual-studio-code-extensions.html)
 
+- [**Gitpod**](https://www.gitpod.io/) - 接近 VSCode 的線上 IDE
+
+- [**codepen**](https://codepen.io/) - 線上前端寫 Code 平台
+
 - [**GitKraken**](https://www.gitkraken.com/git-client) - Git 工具
 
+- [**Sourcetree**](https://www.sourcetreeapp.com/) - a beautiful Git GUI
+
 - [**HackMD**](https://hackmd.io) - 協作筆記
+  - [快速入門教學](https://hackmd.io/quick-start-tw?view)
+  - [完整功能介紹](https://hackmd.io/features-tw?view)
+  - [HackMD chrome 擴充套件](https://chrome.google.com/webstore/detail/hackmd-it/cnephjboabhkldgfpdokefccdofncdjh)
 
 - [**Witeboard**](https://witeboard.com) - 線上協作白板
 
