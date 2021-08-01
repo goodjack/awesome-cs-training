@@ -20,7 +20,7 @@
 - [各校資源](#各校資源)
 - [書籍](#書籍)
 - [競賽](#競賽)
-- [營隊／課程／研討會](#營隊／課程／研討會)
+- [營隊／課程／研討會](#營隊課程研討會)
 - [好文推薦](#好文推薦)
 
 ---
@@ -96,9 +96,15 @@
 - [**VSCode**](https://code.visualstudio.com/) - 電腦寫 Code 媲美 IDE 的超強編輯器
   - [小克的 Visual Studio Code 必裝擴充套件（Extensions）私藏推薦](https://blog.goodjack.tw/2018/03/visual-studio-code-extensions.html)
 
+- [**Gitpod**](https://www.gitpod.io/) - 接近 VSCode 的線上 IDE
+
+- [**CodePen**](https://codepen.io/) - 線上前端寫 Code 平台
+
 - [**GitKraken**](https://www.gitkraken.com/git-client) - Git 工具
 
 - [**HackMD**](https://hackmd.io) - 協作筆記
+  - [HackMD 使用教學](https://hackmd.io/s/tutorials-tw)
+  - [HackMD Chrome 擴充功能](https://chrome.google.com/webstore/detail/hackmd-it/cnephjboabhkldgfpdokefccdofncdjh)
 
 - [**Witeboard**](https://witeboard.com) - 線上協作白板
 
