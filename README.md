@@ -114,6 +114,12 @@
 
 - [**中學資訊討論群**](https://discord.gg/mc9CgJvjZz) - Discord 伺服器
 
+- [**PTT 批踢踢實業坊**](https://term.ptt.cc) 相關看板
+  - [**Prob_Solve**](https://www.ptt.cc/bbs/Prob_Solve/index.html) - 計算數學板
+  - [**C_and_CPP**](https://www.ptt.cc/bbs/C_and_CPP/index.html) - C 與 C++ 板
+  - [**CodeJob**](https://www.ptt.cc/bbs/CodeJob/index.html) - 軟體工作板
+  - 若使用網頁版瀏覽 PTT 文章，推薦使用 [Stytus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) 搭配 [此主題](https://uso.kkx.one/style/159300) 美化網頁
+
 ## 各校資源
 
 - **建國中學**
