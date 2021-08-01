@@ -95,16 +95,13 @@
 
 - [**Gitpod**](https://www.gitpod.io/) - 接近 VSCode 的線上 IDE
 
-- [**codepen**](https://codepen.io/) - 線上前端寫 Code 平台
+- [**CodePen**](https://codepen.io/) - 線上前端寫 Code 平台
 
 - [**GitKraken**](https://www.gitkraken.com/git-client) - Git 工具
 
-- [**Sourcetree**](https://www.sourcetreeapp.com/) - a beautiful Git GUI
-
 - [**HackMD**](https://hackmd.io) - 協作筆記
-  - [快速入門教學](https://hackmd.io/quick-start-tw?view)
-  - [完整功能介紹](https://hackmd.io/features-tw?view)
-  - [HackMD chrome 擴充套件](https://chrome.google.com/webstore/detail/hackmd-it/cnephjboabhkldgfpdokefccdofncdjh)
+  - [HackMD 使用教學](https://hackmd.io/s/tutorials-tw)
+  - [HackMD Chrome 擴充功能](https://chrome.google.com/webstore/detail/hackmd-it/cnephjboabhkldgfpdokefccdofncdjh)
 
 - [**Witeboard**](https://witeboard.com) - 線上協作白板
 
