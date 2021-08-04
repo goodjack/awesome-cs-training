@@ -126,6 +126,8 @@
 
 - [**Telegram 資訊相關群組清單**](https://hackmd.io/@barneybook/HyzZYeCiz?type=view) - Telegram 群組
 
+- [**開源社群推廣目錄**](https://hackmd.io/@SITCON/floss-community-list)
+
 - [**PTT 批踢踢實業坊**](https://term.ptt.cc) 相關看板
   - [**Prob_Solve**](https://www.ptt.cc/bbs/Prob_Solve/index.html) - 計算數學板
   - [**C_and_CPP**](https://www.ptt.cc/bbs/C_and_CPP/index.html) - C 與 C++ 板
