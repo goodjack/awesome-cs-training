@@ -116,10 +116,6 @@
 
 - [**APCS 大學程式設計先修檢測討論社群**](https://www.facebook.com/groups/taiwan.apcs) - Facebook 社團
 
-- [**Python Taiwan**](https://www.facebook.com/groups/pythontw) - Facebook 社團
-
-- [**Google Developers Groups Taiwan**](https://www.facebook.com/gdgtaiwan/) - Facebook 專頁
-
 - [**Meteor 程式設計板**](https://meteor.today/b/programming) - 高中生程式討論區
 
 - [**中學資訊討論群**](https://discord.gg/mc9CgJvjZz) - Discord 伺服器
