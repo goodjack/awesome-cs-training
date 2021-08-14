@@ -120,6 +120,10 @@
 
 - [**中學資訊討論群**](https://discord.gg/mc9CgJvjZz) - Discord 伺服器
 
+- [**Telegram 資訊相關群組清單**](https://hackmd.io/@barneybook/HyzZYeCiz?type=view) - Telegram 群組
+
+- [**開源社群推廣目錄**](https://hackmd.io/@SITCON/floss-community-list)
+
 - [**PTT 批踢踢實業坊**](https://term.ptt.cc) 相關看板
   - [**Prob_Solve**](https://www.ptt.cc/bbs/Prob_Solve/index.html) - 計算數學板
   - [**C_and_CPP**](https://www.ptt.cc/bbs/C_and_CPP/index.html) - C 與 C++ 板
@@ -369,6 +373,12 @@ Competitive Programming (ACM) 課程
   - 主辦單位 [教育部資訊安全人才培育計畫](https://isip.moe.edu.tw/wordpress/)
   - Facebook [AIS3 新型態資安暑期課程](https://www.facebook.com/AIS3tw/)
   - Facebook [高中職生資安研習營](https://www.facebook.com/%E9%AB%98%E4%B8%AD%E8%81%B7%E7%94%9F%E8%B3%87%E5%AE%89%E7%A0%94%E7%BF%92%E7%87%9F-455550404836569/)
+
+- [HITCON](https://hitcon.org/)（7 月報名）
+
+### 10 月
+
+- [MOPCON](https://mopcon.org/)（9 月報名）
 
 ## 好文推薦
 
