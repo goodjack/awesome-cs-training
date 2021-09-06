@@ -101,6 +101,7 @@
 - [**CodePen**](https://codepen.io/) - 線上前端寫 Code 平台
 
 - [**GitKraken**](https://www.gitkraken.com/git-client) - Git 工具
+  - [GitKraken 正體中文 (台灣) 翻譯](https://github.com/rogeraabbccdd/GitKraken-zh-tw)
 
 - [**HackMD**](https://hackmd.io) - 協作筆記
   - [HackMD 使用教學](https://hackmd.io/s/tutorials-tw)
