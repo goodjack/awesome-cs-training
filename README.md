@@ -232,6 +232,9 @@ Competitive Programming (ACM) 課程
   - [Facebook 粉絲專頁](https://www.facebook.com/itsancku/)
   - [E-Tutor 程式自評平臺](https://e-tutor.itsa.org.tw/e-Tutor/)
 
+- [**NHDK Ten Point Round**](https://www.facebook.com/NHDK-%E5%9B%9B%E6%A0%A1%E8%81%AF%E5%90%88%E5%88%9D%E5%AD%B8%E8%80%85%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88%E7%B7%B4%E7%BF%92%E8%B3%BD-100900825156112) - 南部學生自行舉辦的例賽，共分 Div.1、2、3 三種難度，數字越大越簡單
+ - [NHDK Discord Server](https://discord.gg/kmKvRBjgKF)
+
 - [**競程日記**](https://tmt514.github.io/icpcblog-weekly-2019) - 台灣學生自行舉辦的例賽
 
 ### 1 月
