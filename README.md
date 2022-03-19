@@ -105,14 +105,12 @@
 
 - [**Tldraw**](https://www.tldraw.com/r) - 線上協作白板
 
-- [**GitKraken**](https://www.gitkraken.com/git-client) - Git 工具
-  - [GitKraken 正體中文 (台灣) 翻譯](https://github.com/rogeraabbccdd/GitKraken-zh-tw)
-
 - [**HackMD**](https://hackmd.io) - 協作筆記
-  - [HackMD 使用教學](https://hackmd.io/s/tutorials-tw)
+  - [HackMD 使用教學](https://hackmd.io/c/tutorials-tw)
   - [HackMD Chrome 擴充功能](https://chrome.google.com/webstore/detail/hackmd-it/cnephjboabhkldgfpdokefccdofncdjh)
 
 - [**GitKraken**](https://www.gitkraken.com/git-client) - Git 工具
+  - [GitKraken 正體中文 (台灣) 翻譯](https://github.com/rogeraabbccdd/GitKraken-zh-tw)
 
 ### 其他工具
 
