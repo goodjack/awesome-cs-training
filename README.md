@@ -354,14 +354,6 @@ Competitive Programming (ACM) 課程
   - [官方網站](https://sitcon.camp)
   - [Facebook 粉絲專頁](https://www.facebook.com/SITCONCamp/)
 
-- **SITCON 學生計算機年會**（6 月、7 月報名）
-
-  - [官方網站](https://sitcon.org)
-  - [Facebook 粉絲專頁](https://www.facebook.com/SITCONtw/)
-  - [Discord](https://discord.gg/qpx2KXaEQH)
-  - [Telegram](https://t.me/SITCONgeneral)
-  - [Google 網路論壇](https://groups.google.com/g/sitcon-general)
-
 - **COSCUP 開源人年會**（6 月報名）
 
   - [官方網站](https://coscup.org)
@@ -374,6 +366,14 @@ Competitive Programming (ACM) 課程
 - [**交大競技程式訓練夏令營**](https://www.facebook.com/NCTUPCCA)（7 月報名）
 
 ### 9 月
+
+- **SITCON 學生計算機年會**（6 月、7 月報名）
+
+  - [官方網站](https://sitcon.org)
+  - [Facebook 粉絲專頁](https://www.facebook.com/SITCONtw/)
+  - [Discord](https://discord.gg/qpx2KXaEQH)
+  - [Telegram](https://t.me/SITCONgeneral)
+  - [Google 網路論壇](https://groups.google.com/g/sitcon-general)
 
 - 臺灣好厲駭（8 月報名）
   - 主辦單位 [教育部資訊安全人才培育計畫](https://isip.moe.edu.tw/wordpress/)
