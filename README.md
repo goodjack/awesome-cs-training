@@ -331,11 +331,6 @@ Competitive Programming (ACM) 課程
   - [官方網站](https://sprout.tw/spt/)
   - [Facebook 粉絲專頁](https://www.facebook.com/ntucsiesprout/)
 
-- **SITCON 學生計算機年會**（2 月報名）
-
-  - [官方網站](https://sitcon.org)
-  - [Facebook 粉絲專頁](https://www.facebook.com/SITCONtw/)
-
 ### 7 月
 
 - 各大學資工系暑期營隊（5 月報名）
@@ -359,10 +354,20 @@ Competitive Programming (ACM) 課程
   - [官方網站](https://sitcon.camp)
   - [Facebook 粉絲專頁](https://www.facebook.com/SITCONCamp/)
 
+- **SITCON 學生計算機年會**（6 月、7 月報名）
+
+  - [官方網站](https://sitcon.org)
+  - [Facebook 粉絲專頁](https://www.facebook.com/SITCONtw/)
+  - [Discord](https://discord.gg/qpx2KXaEQH)
+  - [Telegram](https://t.me/SITCONgeneral)
+  - [Google 網路論壇](https://groups.google.com/g/sitcon-general)
+
 - **COSCUP 開源人年會**（6 月報名）
 
   - [官方網站](https://coscup.org)
   - [Facebook 粉絲專頁](https://www.facebook.com/coscup/)
+  - [Telegram 群組](https://t.me/coscupchat)
+  - [Telegram 公告頻道](https://t.me/coscup)
 
 - [**清大暑期程式競賽集訓營**](https://www.facebook.com/117994632096051)（5 月報名）
 
