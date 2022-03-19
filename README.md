@@ -34,16 +34,15 @@
 - [**Lucky 貓的 UVA（ACM）園地**](http://luckycat.kshs.kh.edu.tw/) - ACM 中譯
 
 - **網際網路程式設計全國大賽（NPSC）考古題**
-  - [**歷年比賽題目參考**](https://contest.cc.ntu.edu.tw/npsc2020/problem.html)
-  - [**NPSC 補完計劃**](http://www3.tcgs.tc.edu.tw/npsc/) - NPSC 歷年題目的解法討論
+  - [**歷年比賽題目參考**](https://contest.cc.ntu.edu.tw/npsc2021/problem.html)
+  - [**NPSC 補完計劃**](https://web.archive.org/web/20201125081910/http://www3.tcgs.tc.edu.tw/npsc/)（頁庫存檔）- NPSC 歷年題目的解法討論
 
 - **資訊學科能力競賽考古題**
   - [全國決賽](http://nhspc.csie.ntnu.edu.tw/2019/bisaixunxi/lijieshiti.html) - 教育部國民及學前教育署 x 師大資工
-  - [全國決賽](https://hackmd.io/@cube/HyxueFBi4) - 嘉義高中
+  - [全國決賽](https://hackmd.io/@cube/B1UpZzJmY) - 嘉義高中 cube lin
   - [台北市區域複賽](http://203.72.64.251/chen/Exam/ExamTest.html) - 松山高中（推薦）
   - [台北市區域複賽](https://sites.google.com/site/zsgititit/home/zi-xun-neng-li-jing-sai-kao-gu-ti) - 中山女中
-  - [各縣市區域複賽](http://163.23.148.28/fdownload/fdlist.asp?id={D154F9C8-837D-4D3F-B4BA-2749C371EFD8}) - 彰化高中（推薦）
-  - [各縣市區域複賽](http://www.ntsh.ntpc.edu.tw/fdownload/fdlist.asp?id={A69DB8CE-5778-4947-AB14-2E2F9DE84227}) - 新北高中
+  - [各縣市區域複賽](http://163.23.148.28/fdownload/fdlist.asp?id={D154F9C8-837D-4D3F-B4BA-2749C371EFD8}) - 彰化高中
   - [ZeroJudge 競賽題庫](https://zerojudge.tw/Problems?tag=%E8%B3%87%E8%A8%8A%E5%AD%B8%E7%A7%91%E8%83%BD%E5%8A%9B%E7%AB%B6%E8%B3%BD)
 
 ## 線上教材
@@ -80,7 +79,6 @@
   - [CS50 AP](https://cs50.harvard.edu/ap/) - 高中生版 CS50
 
 - [**Google C++ Style Guide**](https://google.github.io/styleguide/cppguide.html) - Google 的 C++ Coding Style 規範
-  - [用 VSCode 寫 C/C++ 教學](https://hackmd.io/@liaojason2/vscodecppwindows) - liaojason2 寫的 Windows 版教學
   - [【VSCode】如何在 VSCode 上自定義 C++ 的 coding style](https://medium.com/@zamhuang/vscode-%E5%A6%82%E4%BD%95%E5%9C%A8-vscode-%E4%B8%8A%E8%87%AA%E5%AE%9A%E7%BE%A9-c-%E7%9A%84-coding-style-c8eb199c57ce) - Zam Huang
 
 - [**成為 Web 開發人員的路線圖**](https://github.com/goodjack/developer-roadmap-chinese)
@@ -89,16 +87,23 @@
 
 以下軟體多數可透過 [**GitHub Student Developer Pack**](https://education.github.com/pack) 免費取得授權或升級至專業版。
 
-- [**Repl.it**](https://repl.it/languages/cpp11) - 線上寫 Code
+### 寫 Code 工具
 
-- [**CLion**](https://samtsai.org/2018/10/02/222-please-dont-recommend-dev-cpp/) - 電腦寫 Code 的專業 C++ IDE
+- [**Repl.it**](https://replit.com/languages/cpp) - 線上寫 Code
+
+- [**CLion**](https://www.jetbrains.com/clion/) - 電腦寫 Code 的專業 C++ IDE
+  - [不要再推薦Dev-C++ 給新手了！](https://samtsai.org/2018/10/02/222-please-dont-recommend-dev-cpp/) - i'm sam
 
 - [**VSCode**](https://code.visualstudio.com/) - 電腦寫 Code 媲美 IDE 的超強編輯器
+  - [C/C++ for Visual Studio Code](https://code.visualstudio.com/docs/languages/cpp) - 微軟官方教學
+  - [用 VSCode 寫 C/C++ 教學](https://hackmd.io/@liaojason2/vscodecppwindows) - liaojason2 寫的 Windows 版中文教學
+  - [GitHub.dev](https://github.dev) - 線上版 VSCode
+  - [【VSCode】如何在 VSCode 上自定義 C++ 的 coding style](https://medium.com/@zamhuang/vscode-%E5%A6%82%E4%BD%95%E5%9C%A8-vscode-%E4%B8%8A%E8%87%AA%E5%AE%9A%E7%BE%A9-c-%E7%9A%84-coding-style-c8eb199c57ce) - Zam Huang
   - [小克的 Visual Studio Code 必裝擴充套件（Extensions）私藏推薦](https://blog.goodjack.tw/2018/03/visual-studio-code-extensions.html)
 
-- [**Gitpod**](https://www.gitpod.io/) - 接近 VSCode 的線上 IDE
+### 協作工具
 
-- [**CodePen**](https://codepen.io/) - 線上前端寫 Code 平台
+- [**Tldraw**](https://www.tldraw.com/r) - 線上協作白板
 
 - [**GitKraken**](https://www.gitkraken.com/git-client) - Git 工具
   - [GitKraken 正體中文 (台灣) 翻譯](https://github.com/rogeraabbccdd/GitKraken-zh-tw)
@@ -107,9 +112,13 @@
   - [HackMD 使用教學](https://hackmd.io/s/tutorials-tw)
   - [HackMD Chrome 擴充功能](https://chrome.google.com/webstore/detail/hackmd-it/cnephjboabhkldgfpdokefccdofncdjh)
 
-- [**Witeboard**](https://witeboard.com) - 線上協作白板
+- [**GitKraken**](https://www.gitkraken.com/git-client) - Git 工具
 
-- [**Cmder**](https://blog.miniasp.com/post/2015/09/27/Useful-tool-Cmder.aspx) - Windows 現代終端機
+### 其他工具
+
+- [**Windows Terminal**](https://www.microsoft.com/zh-tw/p/windows-terminal/9n0dx20hk701) - Windows 現代終端應用程式
+
+- [**CodePen**](https://codepen.io/) - 線上前端寫 Code 平台
 
 - [**Feedly**](https://feedly.com) - 資訊訂閱
 
@@ -136,9 +145,8 @@
 - **建國中學**
 
   - [TIOJ INFOR Online Judge](https://tioj.ck.tp.edu.tw)
-  - [2017 校內培訓講義](https://tioj.ck.tp.edu.tw/articles/11)
-  - [2016 校內培訓講義](https://tioj.ck.tp.edu.tw/articles/5)
-  - [2015 資訊科培訓網站](http://pisces.ck.tp.edu.tw/~peng/index.php)
+  - [2021 校內培訓簡報](https://tioj.ck.tp.edu.tw/articles/22)
+  - 過往講義：[2020](https://tioj.ck.tp.edu.tw/articles/15)、[2017](https://tioj.ck.tp.edu.tw/articles/11)、[2016](https://tioj.ck.tp.edu.tw/articles/5)、[2015](http://pisces.ck.tp.edu.tw/~peng/index.php)
 
 - **中山女高 - 黃建庭**
 
@@ -147,10 +155,11 @@
 
 - **板橋高中**
 
-  - [板橋高中資訊社](https://sites.google.com/site/pcshic/) （[新版網站 1](https://sites.google.com/mail.pcsh.ntpc.edu.tw/info/)、[新版網站 2](https://ic.sean.cat/)）
-  - [2021 寒假營隊](https://sites.google.com/mail.pcsh.ntpc.edu.tw/info/winter_camp_2021)
-  - [2018/2019 校內培訓講義](https://sites.google.com/site/pcshic/zi-xun-pei-xun)
-  - [2015 校內培訓講義](https://docs.google.com/document/d/1A5pBTSSr-jyMsh5vCIEZhGN9W5VEFs8Z_G_u5OLsYJ0/edit?pli=1)
+  - [板橋高中資訊社](https://sites.google.com/mail.pcsh.ntpc.edu.tw/info/)（[Sean 分站](https://ic.sean.cat/)、[舊版網站](https://sites.google.com/site/pcshic/)）
+  - APCS C++ 營隊資源
+    - 2022 [Google 簡報](https://docs.google.com/presentation/d/1mHwntHm3uMZP_pFvC9ZIwjeBwV1DB7ceK5P4W_kNTIc/edit?usp=sharing)、[YouTube 播放清單](https://www.youtube.com/playlist?list=PLDTv13IAuPQUeaWXb7Y_ogV0yzYio4wIS)
+    - 2021 [暑假課程頁面](https://sites.google.com/mail.pcsh.ntpc.edu.tw/info/cpp/2021Summer)、[寒假課程頁面](https://sites.google.com/mail.pcsh.ntpc.edu.tw/info/cpp/winter_camp_2021)、[Google 簡報](https://docs.google.com/presentation/d/1kszEdXatCaOo_mWQd3x4awT8aje3pFXIHgFx24lglg0/edit)、[YouTube 播放清單](https://youtube.com/playlist?list=PLDTv13IAuPQX8mpiW-f3dedFEPk_JaD0B)
+  - 校內培訓講義：[2018/2019](https://sites.google.com/site/pcshic/zi-xun-pei-xun)、[2015](https://docs.google.com/document/d/1A5pBTSSr-jyMsh5vCIEZhGN9W5VEFs8Z_G_u5OLsYJ0/edit?pli=1)
   - [C++ 從 Zero 開始](https://sites.google.com/site/pcshic/cppzero) （[新網站](http://pcshic.github.io/start/)）
 
 - **新竹實驗中學**
@@ -170,23 +179,22 @@
 
   - 演算法班
 
-    - [2021 課程講義](https://www.csie.ntu.edu.tw/~sprout/algo2021/)
-    - 過往講義：[2020](https://www.csie.ntu.edu.tw/~sprout/algo2020/)、[2019](https://www.csie.ntu.edu.tw/~sprout/algo2019/)、[2018](https://www.csie.ntu.edu.tw/~sprout/algo2018/)、[2017](https://www.csie.ntu.edu.tw/~sprout/algo2017/)、[2016](https://www.csie.ntu.edu.tw/~sprout/algo2016/)
+    - [2022 課程講義](https://www.csie.ntu.edu.tw/~sprout/algo2022/)
+    - 過往講義：[2021](https://www.csie.ntu.edu.tw/~sprout/algo2021/)、[2020](https://www.csie.ntu.edu.tw/~sprout/algo2020/)、[2019](https://www.csie.ntu.edu.tw/~sprout/algo2019/)、[2018](https://www.csie.ntu.edu.tw/~sprout/algo2018/)、[2017](https://www.csie.ntu.edu.tw/~sprout/algo2017/)、[2016](https://www.csie.ntu.edu.tw/~sprout/algo2016/)
 
   - C/C++ 班
 
-    - [2021 課程講義](https://tw-csie-sprout.github.io/c2021/#!slides.md)
-    - 過往講義：[2020](https://tw-csie-sprout.github.io/c2020/#!slides.md)、[2019](https://tw-csie-sprout.github.io/c2019/#!slides.md)、[2018](https://tw-csie-sprout.github.io/c2018/#!slides.md)、[2017](https://tw-csie-sprout.github.io/c2017/#!slides.md)、[2016](https://tw-csie-sprout.github.io/c2016/#!slides.md)、[2015](http://tw-csie-sprout.github.io/programming15spring/#!slide.md)
+    - [2022 課程講義](https://tw-csie-sprout.github.io/c2022/#!slides.md)
+    - 過往講義：[2021](https://tw-csie-sprout.github.io/c2021/#!slides.md)、[2020](https://tw-csie-sprout.github.io/c2020/#!slides.md)、[2019](https://tw-csie-sprout.github.io/c2019/#!slides.md)、[2018](https://tw-csie-sprout.github.io/c2018/#!slides.md)、[2017](https://tw-csie-sprout.github.io/c2017/#!slides.md)、[2016](https://tw-csie-sprout.github.io/c2016/#!slides.md)、[2015](http://tw-csie-sprout.github.io/programming15spring/#!slide.md)
 
   - Python 班
 
-    - [2021 課程講義](https://tw-csie-sprout.github.io/py2021/#!slides.md)
-    - 過往講義：[2020](https://tw-csie-sprout.github.io/py2020/#!slides.md)、[2019](https://tw-csie-sprout.github.io/py2019/#!slides.md)、[2018](https://tw-csie-sprout.github.io/py2018/#!slides.md)、[2017](https://tw-csie-sprout.github.io/py2017/#!slides.md)、[2016](https://tw-csie-sprout.github.io/py2016/#!slides.md)
+    - [2022 課程講義](https://tw-csie-sprout.github.io/py2022/#!slides.md)
+    - 過往講義：[2021](https://tw-csie-sprout.github.io/py2021/#!slides.md)、[2020](https://tw-csie-sprout.github.io/py2020/#!slides.md)、[2019](https://tw-csie-sprout.github.io/py2019/#!slides.md)、[2018](https://tw-csie-sprout.github.io/py2018/#!slides.md)、[2017](https://tw-csie-sprout.github.io/py2017/#!slides.md)、[2016](https://tw-csie-sprout.github.io/py2016/#!slides.md)
 
 - **交通大學** - Programming Challenging Contest Association (PCCA) 競技程式訓練營
-
-  - [2021 冬令營](https://www.facebook.com/NCTUPCCA/posts/2152385438231854)
-  - 2020 停辦、[2019 冬](https://sites.google.com/g2.nctu.edu.tw/pcca-winter-2019/%E8%AA%B2%E7%A8%8B%E8%B3%87%E8%A8%8A?authuser=0)、[2018 夏](https://sites.google.com/g2.nctu.edu.tw/pcca-summer-2018/%E8%AA%B2%E7%A8%8B%E8%B3%87%E8%A8%8A?authuser=0)、[2018 冬](https://sites.google.com/g2.nctu.edu.tw/pcca-winter-2018/%E8%AA%B2%E7%A8%8B%E8%B3%87%E8%A8%8A?authuser=0)、[2017 冬](https://sites.google.com/view/nctupcca/2017-%E4%BA%A4%E5%A4%A7%E7%AB%B6%E6%8A%80%E7%A8%8B%E5%BC%8F%E8%A8%93%E7%B7%B4%E5%86%AC%E4%BB%A4%E7%87%9F/%E8%AA%B2%E7%A8%8B%E8%B3%87%E8%A8%8A?authuser=0)、[2016 夏](https://sites.google.com/site/pccanctu/2016-summer-camp/sources)、[2016 冬](https://sites.google.com/site/pccanctu/2016-winter-camp/resources)
+  - [2022 冬令營](https://www.youtube.com/playlist?list=PLtRlodjJ-YdIizrpGnftvH7hgJEQN7j9E)
+  - [2021 冬](https://www.facebook.com/NCTUPCCA/posts/2152385438231854)、2020 停辦、[2019 冬](https://sites.google.com/g2.nctu.edu.tw/pcca-winter-2019/%E8%AA%B2%E7%A8%8B%E8%B3%87%E8%A8%8A?authuser=0)、[2018 夏](https://sites.google.com/g2.nctu.edu.tw/pcca-summer-2018/%E8%AA%B2%E7%A8%8B%E8%B3%87%E8%A8%8A?authuser=0)、[2018 冬](https://sites.google.com/g2.nctu.edu.tw/pcca-winter-2018/%E8%AA%B2%E7%A8%8B%E8%B3%87%E8%A8%8A?authuser=0)、[2017 冬](https://sites.google.com/view/nctupcca/2017-%E4%BA%A4%E5%A4%A7%E7%AB%B6%E6%8A%80%E7%A8%8B%E5%BC%8F%E8%A8%93%E7%B7%B4%E5%86%AC%E4%BB%A4%E7%87%9F/%E8%AA%B2%E7%A8%8B%E8%B3%87%E8%A8%8A?authuser=0)、[2016 夏](https://sites.google.com/site/pccanctu/2016-summer-camp/sources)、[2016 冬](https://sites.google.com/site/pccanctu/2016-winter-camp/resources)
 
 - **交通大學** - PSPT 課程
 
@@ -195,6 +203,7 @@
 - **成功大學** - Advanced
 Competitive Programming (ACM) 課程
 
+  - [2021 Spring NCKU ACM Training Courses](https://nckuacm.github.io/2021/)
   - [2020 Spring NCKU ACM Training Courses](https://nckuacm.github.io/2020/)
   - [2019 Spring NCKU ACM Training Courses](https://nckuacm.github.io/2019/)
   - [2018 Spring NCKU ACM Training Courses](https://nckuacm.github.io/2018/)
@@ -254,11 +263,13 @@ Competitive Programming (ACM) 課程
 
 ### 3 月
 
-- [**TOI 臺灣國際資訊奧林匹亞競賽選訓營**](http://toi.csie.ntnu.edu.tw/)（2 月報名）
+- [**高中海狸一日營**](https://compthinking.csie.ntnu.edu.tw/index.php/category/all/bebrascamp/)
+- [**TOI 臺灣國際資訊奧林匹亞競賽選訓營**](https://tpmso.org/toi/)（2 月報名）
 - [**TOI 推廣計畫 - 臺灣國際資訊奧林匹亞競賽線上練習賽**](https://toi-reg.csie.ntnu.edu.tw)（3 月場）
 
 ### 4 月
 
+- [**國際運算思維挑戰賽**](http://bebras.csie.ntnu.edu.tw)（3 月報名）
 - [**少年圖靈計畫**](http://www.tw-ytp.com)（4 月報名）
 - [**TOI 推廣計畫 - 臺灣國際資訊奧林匹亞競賽線上練習賽**](https://toi-reg.csie.ntnu.edu.tw)（4 月場）
 
@@ -291,7 +302,6 @@ Competitive Programming (ACM) 課程
   - [競賽網站](https://csc.nccst.nat.gov.tw)
   - [主辦單位 Facebook 粉絲專頁](https://www.facebook.com/pages/category/Computer-Company/%E8%B3%87%E5%AE%89%E7%B3%BB%E5%88%97%E7%AB%B6%E8%B3%BD-112449435572808/)
 
-- [**北市高中電腦軟體設計競賽**](http://tpc.taivs.tp.edu.tw/)（9 月報名）- 僅限北市學生參加
 - [**TOI 推廣計畫 - 臺灣國際資訊奧林匹亞競賽線上練習賽**](https://toi-reg.csie.ntnu.edu.tw)（10 月場）
 
 ### 11 月
