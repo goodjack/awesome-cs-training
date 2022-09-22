@@ -399,7 +399,7 @@ Competitive Programming (ACM) 課程
 
 - [MOPCON](https://mopcon.org/)（9 月報名）
 
-- [SCIST](https://scist.org/) （9 月報名）- 資訊安全&演算法營隊
+- [SCIST](https://scist.org/) （9 月報名）- 資訊安全&演算法課程
 
 ## 好文推薦
 
