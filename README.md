@@ -73,6 +73,10 @@
 
 - [**NHDK 三校聯合暑期培訓營講義**](https://github.com/HHSH-CYSH-WGSH-HSNU-Summer-Camp) - 演算法教材
 
+### 資訊安全
+
+- [Ice1187/**TW-Security-and-CTF-Resource**](https://github.com/Ice1187/TW-Security-and-CTF-Resource) - 台灣資安 / CTF 學習資源整理
+
 ### 成為工程師
 
 - [**為你自己學 Git**](https://gitbook.tw) - Git 教材
