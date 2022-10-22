@@ -403,6 +403,8 @@ Competitive Programming (ACM) 課程
 
 - [MOPCON](https://mopcon.org/)（9 月報名）
 
+- [SCIST](https://scist.org/) （9 月報名）- 資訊安全&演算法課程
+
 ## 好文推薦
 
 - [當我們在學程式時，要學的到底是什麼？ – Huli – Medium](https://medium.com/@hulitw/learn-coding-9c572c2fb2)
