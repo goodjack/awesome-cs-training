@@ -77,6 +77,10 @@
 
 - [Ice1187/**TW-Security-and-CTF-Resource**](https://github.com/Ice1187/TW-Security-and-CTF-Resource) - 台灣資安 / CTF 學習資源整理
 
+- [fei3363/**Awesome-Taiwan-Security-Course**](https://github.com/fei3363/Awesome-Taiwan-Security-Course) - 收集臺灣各大學、資安社團、社群、計畫能提升「資安實務」能力的課程、簡報、連結
+
+- [splitline/**How-to-Hack-Websites**](https://github.com/splitline/How-to-Hack-Websites) - 開源的正體中文 Web Hacking 學習資源
+
 ### 成為工程師
 
 - [**為你自己學 Git**](https://gitbook.tw) - Git 教材
