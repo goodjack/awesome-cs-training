@@ -138,6 +138,8 @@
 
 - [**中學資訊討論群**](https://discord.gg/mc9CgJvjZz) - Discord 伺服器
 
+- [**SCIST 南臺灣學生資訊社群**](https://discord.com/invite/g6qfD4Wk9j) - Discord 伺服器
+
 - [**Telegram 資訊相關群組清單**](https://hackmd.io/@barneybook/HyzZYeCiz?type=view) - Telegram 群組
 
 - [**開源社群推廣目錄**](https://hackmd.io/@SITCON/floss-community-list)
@@ -149,6 +151,15 @@
   - 若使用網頁版瀏覽 PTT 文章，推薦使用 [Stytus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) 搭配 [此主題](https://uso.kkx.one/style/159300) 美化網頁
 
 ## 各校資源
+
+- **SCIST 南臺灣學生資訊社群**
+
+  - [官方網站](https://scist.org)
+  - [YouTube 頻道](https://www.youtube.com/c/OfficialSCIST)
+  - [Discord 伺服器](https://discord.com/invite/g6qfD4Wk9j)
+  - [Facebook 粉專](https://www.facebook.com/scist.tw)
+  - [Instagram](https://www.instagram.com/scist.tw/)
+  - [Linktree](https://linktr.ee/scist.tw)
 
 - **建國中學**
 
