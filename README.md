@@ -293,7 +293,8 @@ Competitive Programming (ACM) 課程
 
 - [**國際運算思維挑戰賽**](http://bebras.csie.ntnu.edu.tw)（3 月報名）
 - [**少年圖靈計畫**](http://www.tw-ytp.com)（4 月報名）
-- [**TOI 推廣計畫 - 臺灣國際資訊奧林匹亞競賽線上練習賽**](https://toi-reg.csie.ntnu.edu.tw)（4 月場）
+- [**TOI 推廣計畫 - 臺灣國際資訊奧林匹亞競賽線上練習賽**](https://toi-reg.csie.ntnu.edu.tw)（4 月場）**
+- [**國立成功大學暑期高中生程式設計邀請賽**](http://hspc2023.csie.ncku.edu.tw/)(3 月開始報名，4 月初賽、8 月決賽)
 
 ### 5 月
 
@@ -303,10 +304,6 @@ Competitive Programming (ACM) 課程
 ### 6 月
 
 - [**APCS - 大學程式設計先修檢測**](https://apcs.csie.ntnu.edu.tw)（4 月報名）
-
-### 7 月
-
-- [**國立成功大學暑期高中生程式設計邀請賽**](http://hspc.csie.ncku.edu.tw/)（5、6 月報名）
 
 ### 8 月
 
