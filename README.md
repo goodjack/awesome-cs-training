@@ -341,7 +341,7 @@ Competitive Programming (ACM) 課程
 
 - [**NPSC 網際網路程式設計全國大賽**](http://contest.cc.ntu.edu.tw)（10 月報名）
 - [**TOI 推廣計畫 - 臺灣國際資訊奧林匹亞競賽線上練習賽**](https://toi-reg.csie.ntnu.edu.tw)（12 月場）
-
+- [**資訊學科能力競賽決賽 模擬賽**](https://nhspc.cc)（11 月報名）
 ## 營隊／課程／研討會
 
 ### 1 月
